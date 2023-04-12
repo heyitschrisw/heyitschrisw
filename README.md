@@ -1,3 +1,4 @@
+<!--
 # Hey, it's Chris Wang 👋,
 
 [![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:chris.shwe.wang@gmail.com)](mailto:chris.shwe.wang@gmail.com) 
@@ -27,3 +28,4 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/circleci-343434?style=for-the-badge&logo=circleci&logoColor=white" />
 
+-->
